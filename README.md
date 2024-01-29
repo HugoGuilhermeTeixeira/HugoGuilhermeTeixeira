@@ -35,7 +35,7 @@
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C#](https://img.shields.io/badge/-C#-0D1117?style=for-the-badge&logo=C#&logoColor=1572B6&labelColor=0D1117)&nbsp;
+
   
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-SpringBoot-0D1117?style=for-the-badge&logo=SpringBoot&labelColor=0D1117&textColor=0D1117)&nbsp;
